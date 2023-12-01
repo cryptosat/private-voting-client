@@ -1,0 +1,7 @@
+{
+  "name": "private-voting-client",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat-contract-sizer": "^2.10.0"
+  }
+}
